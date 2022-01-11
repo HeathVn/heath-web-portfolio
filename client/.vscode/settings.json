@@ -1,4 +1,0 @@
-{
-    "terminal.integrated.sendKeybindingsToShell": true,
-    "NODE_OPTIONS": "--max-old-space-size=4096"
-}
